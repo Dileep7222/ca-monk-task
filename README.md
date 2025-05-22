@@ -1,4 +1,4 @@
-# CA MONK ASSESMENT
+# Quiz App
 
 This is a assement task project which is given by CA MONK Which is a Ed. Tech Company 
 
